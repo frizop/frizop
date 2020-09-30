@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 
+I'm Nathan, thanks for visiting my github page!
+
+- 🔭 I'm excited about puppet and automation
 - 💬 Ask me about comics! 
 - 📫 How to reach me: `finger $(whoami)`
 ```
