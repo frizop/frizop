@@ -12,8 +12,6 @@ I'm Nathan, thanks for visiting my github page!
     No Mail.
     Plan:
       twitter:  @jidar
-      irc:      jidar #puppet
       github:   frizop
-      /.*/:     jidar / frizop
 ```
 - ⚡ Fun fact: I've been playing [D&D since roughly when second edition came out](https://frizop.github.io)
