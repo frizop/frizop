@@ -20,7 +20,6 @@ sub   ed25519 2021-06-10 [S] [expires: 2021-07-10]
 sub   ed25519 2021-06-10 [SA] [expires: 2021-07-10]
 
 Plan:
-      twitter:  @jidar
       github:   frizop
 ```
 - ⚡ Fun fact: I've been playing [D&D since roughly when second edition came out](https://frizop.github.io)
