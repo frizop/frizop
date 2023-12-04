@@ -13,6 +13,7 @@ On since Thu Jul  1 10:37 (EST) on tty2 from tty2
 No mail.
 
 Plan:
+      Mastodon: @jidar@allthingstech.social 
       github:   frizop
 ```
 - ⚡ Fun fact: I've been playing [D&D since roughly when second edition came out](https://frizop.github.io)
