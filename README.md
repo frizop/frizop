@@ -7,7 +7,7 @@ I'm Nathan, thanks for visiting my github page!
 - 📫 How to reach me: `finger $(whoami)`
 ```
 Login: nate           			Name: Nathan Morell
-Directory: /home/nate               	Shell: /bin/bash
+Directory: /home/nate               	Shell: /usr/bin/fish
 On since Thu Jul  1 10:37 (EST) on tty2 from tty2
    46 minutes 24 seconds idle
 No mail.
