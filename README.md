@@ -12,7 +12,7 @@ On since Sat Jun 29 00:19 (EDT) on tty1   3 hours 34 minutes idle
      (messages off)
 No mail.
 Plan:
-      Mastodon: @jidar@allthingstech.social
+      Mastodon: @jidar@techhub.social
       github:   frizop
 ```
 - ⚡ Fun fact: I've been playing [D&D since roughly when second edition came out](https://frizop.github.io)
